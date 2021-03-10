@@ -598,5 +598,431 @@
     "level": 5,
     "dutch": "voeren",
     "spanish": "hacer"
+  },
+  {
+    "category": "Kleuren",
+    "level": 1,
+    "dutch": "rood",
+    "spanish": "rojo"
+  },
+  {
+    "category": "Kleuren",
+    "level": 1,
+    "dutch": "oranje",
+    "spanish": "naranja"
+  },
+  {
+    "category": "Kleuren",
+    "level": 1,
+    "dutch": "geel",
+    "spanish": "amarillo"
+  },
+  {
+    "category": "Kleuren",
+    "level": 1,
+    "dutch": "groen",
+    "spanish": "verde"
+  },
+  {
+    "category": "Kleuren",
+    "level": 1,
+    "dutch": "blauw",
+    "spanish": "azul"
+  },
+  {
+    "category": "Kleuren",
+    "level": 1,
+    "dutch": "paars",
+    "spanish": "morado"
+  },
+  {
+    "category": "Kleuren",
+    "level": 1,
+    "dutch": "roze",
+    "spanish": "rosa"
+  },
+  {
+    "category": "Kleuren",
+    "level": 1,
+    "dutch": "bruin",
+    "spanish": "café"
+  },
+  {
+    "category": "Kleuren",
+    "level": 1,
+    "dutch": "zwart",
+    "spanish": "negro"
+  },
+  {
+    "category": "Kleuren",
+    "level": 1,
+    "dutch": "wit",
+    "spanish": "blanco"
+  },
+  {
+    "category": "Kleuren",
+    "level": 1,
+    "dutch": "grijs",
+    "spanish": "gris"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "aap",
+    "spanish": "mono"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "beer",
+    "spanish": "oso"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "olifant",
+    "spanish": "elefante"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "kangoeroe",
+    "spanish": "canguro"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "giraffe",
+    "spanish": "jirafa"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "neushoorn",
+    "spanish": "rinoceronte"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "nijlpaard",
+    "spanish": "hipopótamo"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "leeuw",
+    "spanish": "león"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "tijger",
+    "spanish": "tigre"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "kameel",
+    "spanish": "camello"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "hert",
+    "spanish": "venado"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "slang",
+    "spanish": "serpiente"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "krokodil",
+    "spanish": "cocodrilo"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "schildpad",
+    "spanish": "tortuga"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "hagedis",
+    "spanish": "lagargo"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "salamander",
+    "spanish": "salamandra"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "kikker",
+    "spanish": "rana"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "pad",
+    "spanish": "sapo"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "eend",
+    "spanish": "pato"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "zwaan",
+    "spanish": "cisne"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "gans",
+    "spanish": "ganso"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "mus",
+    "spanish": "gorrión"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "duif",
+    "spanish": "paloma"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "merel",
+    "spanish": "mirlo"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "meeuw",
+    "spanish": "gaviota"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "roofvogel",
+    "spanish": "ave de presa"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "uil",
+    "spanish": "búho"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "struisvogel",
+    "spanish": "avestruz"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "pinguin",
+    "spanish": "pingüino"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "papegaai",
+    "spanish": "loro"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "zeehond",
+    "spanish": "foca"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "dolfijn",
+    "spanish": "delfín"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "haai",
+    "spanish": "tiburón"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "vis",
+    "spanish": "pez"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "orka",
+    "spanish": "orca"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "spin",
+    "spanish": "araña"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "bij",
+    "spanish": "abeja"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "wesp",
+    "spanish": "avispa"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "mug",
+    "spanish": "mosquito"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "vlieg",
+    "spanish": "mosca"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "mier",
+    "spanish": "hormiga"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "rups",
+    "spanish": "oruga"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "vliender",
+    "spanish": "mariposa"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "kever",
+    "spanish": "escarabajo"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "hond",
+    "spanish": "perro"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "kat",
+    "spanish": "gato"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "konijn",
+    "spanish": "conejo"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "cavia",
+    "spanish": "conejillo de indias"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "muis",
+    "spanish": "ratón"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "rat",
+    "spanish": "rata"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "hamster",
+    "spanish": "hamster"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "goudvis",
+    "spanish": "pez dorado"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "koe",
+    "spanish": "vaca"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "stier",
+    "spanish": "toro"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "paard",
+    "spanish": "caballo"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "varken",
+    "spanish": "cerdo"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "ezel",
+    "spanish": "burro"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "schaap",
+    "spanish": "oveja"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "kip",
+    "spanish": "pollo"
+  },
+  {
+    "category": "Dieren",
+    "level": 1,
+    "dutch": "haan",
+    "spanish": "gallo"
   }
 ]
