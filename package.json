@@ -1,0 +1,18 @@
+{
+  "name": "holandes",
+  "version": "1.0.0",
+  "description": "App para aprender holandés desde español.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio",
+  "license": "ISC",
+  "engines": {
+    "node": "14.15.0"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}

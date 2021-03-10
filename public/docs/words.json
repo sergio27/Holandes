@@ -1,0 +1,602 @@
+[
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "antwoorden",
+    "spanish": "responder"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "beginnen",
+    "spanish": "empezar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "bellen",
+    "spanish": "llamar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "doen",
+    "spanish": "hacer"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "drinken",
+    "spanish": "beber"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "eten",
+    "spanish": "comer"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "gaan",
+    "spanish": "ir"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "geven",
+    "spanish": "dar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "hebben",
+    "spanish": "tener"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "heten",
+    "spanish": "llamarse"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "horen",
+    "spanish": "oír"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "komen",
+    "spanish": "venir"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "kopen",
+    "spanish": "comprar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "kunnen",
+    "spanish": "poder"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "lezen",
+    "spanish": "leer"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "maken",
+    "spanish": "hacer"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "spreken",
+    "spanish": "hablar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "vragen",
+    "spanish": "preguntar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "zijn",
+    "spanish": "ser o estar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 1,
+    "dutch": "leven",
+    "spanish": "vivir"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "betalen",
+    "spanish": "pagar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "blijven",
+    "spanish": "permanecer"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "brengen",
+    "spanish": "traer"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "denken",
+    "spanish": "creer"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "helpen",
+    "spanish": "ayudar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "kennen",
+    "spanish": "conocer"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "kiezen",
+    "spanish": "elegir"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "kijken",
+    "spanish": "mirar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "lopen",
+    "spanish": "andar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "praten",
+    "spanish": "hablar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "schrijven",
+    "spanish": "escribir"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "slapen",
+    "spanish": "dormir"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "spelen",
+    "spanish": "jugar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "verkopen",
+    "spanish": "vender"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "vertellen",
+    "spanish": "contar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "wachten",
+    "spanish": "esperar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "werken",
+    "spanish": "trabajar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "willen",
+    "spanish": "querer"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "zeggen",
+    "spanish": "decir"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 2,
+    "dutch": "zien",
+    "spanish": "ver"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "bestaan",
+    "spanish": "ser"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "bouwen",
+    "spanish": "construir"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "gebruiken",
+    "spanish": "usar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "kosten",
+    "spanish": "costar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "lachen",
+    "spanish": "reir"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "laten",
+    "spanish": "dejar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "leren",
+    "spanish": "aprender"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "moeten",
+    "spanish": "deber"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "nemen",
+    "spanish": "tomar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "plannen",
+    "spanish": "planear"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "schilderen",
+    "spanish": "pintar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "staan",
+    "spanish": "estar de pie"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "starten",
+    "spanish": "empezar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "tellen",
+    "spanish": "contar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "vinden",
+    "spanish": "encontrar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "voelen",
+    "spanish": "sentir"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "weten",
+    "spanish": "saber"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "zetten",
+    "spanish": "poner"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "zitten",
+    "spanish": "estar sentado"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 3,
+    "dutch": "zoeken",
+    "spanish": "buscar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "groeien",
+    "spanish": "crecer"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "geloven",
+    "spanish": "creer"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "houden",
+    "spanish": "mantener"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "mogen",
+    "spanish": "poder"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "veranderen",
+    "spanish": "cambiar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "bezoeken",
+    "spanish": "visitar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "betekenen",
+    "spanish": "significar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "bieden",
+    "spanish": "ofrecer"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "krijgen",
+    "spanish": "recibir"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "leggen",
+    "spanish": "poner"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "leiden",
+    "spanish": "dirigir"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "liggen",
+    "spanish": "estar tumbado"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "lijken",
+    "spanish": "parecer"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "proberen",
+    "spanish": "intentar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "stellen",
+    "spanish": "colocar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "vallen",
+    "spanish": "caer"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "vertrouwen",
+    "spanish": "confiar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "verwachten",
+    "spanish": "esperar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "worden",
+    "spanish": "llegar a ser"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 4,
+    "dutch": "zorgen",
+    "spanish": "cuidar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "volgen",
+    "spanish": "seguir"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "bepalen",
+    "spanish": "determinar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "halen",
+    "spanish": "lograr"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "gelden",
+    "spanish": "valer"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "trekken",
+    "spanish": "tirar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "vormen",
+    "spanish": "formar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "betreffen",
+    "spanish": "concernir"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "betrekken",
+    "spanish": "implicar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "bezitten",
+    "spanish": "tener"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "plaatsen",
+    "spanish": "situar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "voorstellen",
+    "spanish": "proponer"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "voorzien",
+    "spanish": "prever"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "bedragen",
+    "spanish": "sumar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "beperken",
+    "spanish": "limitar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "blijken",
+    "spanish": "resultar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "gebeuren",
+    "spanish": "ocurrir"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "leveren",
+    "spanish": "entregar"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "ontstaan",
+    "spanish": "originarse"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "stijgen",
+    "spanish": "subir"
+  },
+  {
+    "category": "Werkwoorden",
+    "level": 5,
+    "dutch": "voeren",
+    "spanish": "hacer"
+  }
+]
