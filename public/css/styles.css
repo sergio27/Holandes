@@ -13,3 +13,7 @@
 .hidden {
   display: none;
 }
+
+.txt-answer {
+  text-transform: lowercase;
+}

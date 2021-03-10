@@ -1,3 +1,9 @@
-# Holandés
+# Holandés 🌷
 
-Holandés es un proyecto de prueba para aprender distintas tecnologías de desarrollo web.
+Holandés es un proyecto para que personas que hablan español puedan aprender el idioma holandés.
+
+## TODO
+
+- Permitir variaciones de las palabras.
+- Agregar más categorías.
+- Agregar artículos (het / de).
