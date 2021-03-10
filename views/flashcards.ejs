@@ -12,23 +12,21 @@
     <div class="navbar navbar-dark bg-dark shadow-sm">
       <div class="container">
         <a href="/" class="navbar-brand d-flex align-items-center">
-          <i class="fas fa-campground nav-icon"></i>
-          <strong>Holandés</strong>
+          <div class="navbar-logo">
+            <i class="fas fa-campground nav-icon"></i>
+            <strong>Holandés</strong>
+          </div>
         </a>
       </div>
     </div>
 
     <section class="py-5 text-center container">
-      <div class="row py-lg-2">
-        <div class="col-lg-6 col-md-8 mx-auto">
-          <h1 class="fw-light lbl-category"><%= category %></h1>
-        </div>
-      </div>
+        <h1 class="fw-light lbl-category"><%= category %></h1>
     </section>
 
     <div class="container">
         <div class="row py-lg-2">
-          <div class="col-lg-6 col-md-8 mx-auto">
+          <div class="col-lg-6 col-md-12 mx-auto">
             <div class="d-grid gap-3">
             <button type="button" class="btn btn-primary flashcard fc-dutch"> </button>
             <button type="button" class="btn btn-primary flashcard fc-spanish hidden"> </button>

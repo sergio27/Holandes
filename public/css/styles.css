@@ -17,3 +17,35 @@
 .txt-answer {
   text-transform: lowercase;
 }
+
+@media only screen and (max-width: 992px) {
+  h1 {
+    font-size: 7rem;
+  }
+
+  h2 {
+    font-size: 6rem;
+  }
+
+  h3 {
+    font-size: 5rem;
+  }
+
+  .flashcard {
+    padding: 12% 0;
+    font-size: 4rem;
+  }
+
+  .btn-options {
+    padding: 12% 0;
+    font-size: 4rem;
+  }
+
+  .navbar-logo {
+    padding: 15% 0;
+  }
+
+  .txt-answer {
+    font-size: 4rem;
+  }
+}

@@ -134,7 +134,7 @@ function removeSpecialCharacters(word) {
   newWord = newWord.replace("ú", "u");
   newWord = newWord.replace("ü", "u");
 
-  return newWord;
+  return newWord.toLowerCase().trim();
 }
 
 function nextWord() {

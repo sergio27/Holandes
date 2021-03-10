@@ -12,27 +12,27 @@
     <div class="navbar navbar-dark bg-dark shadow-sm">
       <div class="container">
         <a href="/" class="navbar-brand d-flex align-items-center">
-          <i class="fas fa-campground nav-icon"></i>
-          <strong>Holandés</strong>
+          <div class="navbar-logo">
+            <i class="fas fa-campground nav-icon"></i>
+            <strong>Holandés</strong>
+          </div>
         </a>
       </div>
     </div>
 
     <section class="py-5 text-center container">
-      <div class="row py-lg-2">
-        <div class="col-lg-6 col-md-8 mx-auto">
+
           <h1 class="fw-light"><%= category %></h1>
-        </div>
-      </div>
+
     </section>
 
     <div class="container">
       <div class="row py-lg-2">
-        <div class="col-lg-6 col-md-8 mx-auto">
+        <div class="col-lg-6 col-md-12 mx-auto">
           <div class="d-grid gap-3">
-          <a href="<%= category %>/Vocabulario" class="btn btn-primary" role="button">Vocabulario</a>
-          <a href="<%= category %>/Repaso" class="btn btn-primary" role="button">Repaso</a>
-          <a href="<%= category %>/Quiz" class="btn btn-primary" role="button">Quiz</a>
+          <a href="<%= category %>/Vocabulario" class="btn btn-primary btn-options" role="button">Vocabulario</a>
+          <a href="<%= category %>/Repaso" class="btn btn-primary btn-options" role="button">Repaso</a>
+          <a href="<%= category %>/Quiz" class="btn btn-primary btn-options" role="button">Quiz</a>
           </div>
         </div>
       </div>
