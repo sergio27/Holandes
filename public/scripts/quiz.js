@@ -106,6 +106,8 @@ function startGame() {
 
   $(".opciones").hide();
   $(".quiz").show();
+
+  $(".lbl-category").hide();
 }
 
 function checkWord() {
@@ -154,6 +156,7 @@ function nextWord() {
 
   let texto = "Palabra " +wordCount +" de " +quizWords.length +".";
   $(".lbl-wordcount").text(texto);
+  $(".txt-answer").focus();
 }
 
 function shuffleArray(array) {

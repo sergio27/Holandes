@@ -9,29 +9,33 @@
     <link rel="stylesheet" href="css/styles.css" />
   </head>
   <body>
-    <div class="navbar navbar-dark bg-dark shadow-sm">
-      <div class="container">
-        <a href="/" class="navbar-brand d-flex align-items-center">
-          <div class="navbar-logo">
-            <i class="fas fa-campground nav-icon"></i>
-            <strong>Holandés</strong>
+    <%- include("navbar") -%>
+
+    <div class="py-5 container">
+        <div class="row py-lg-2">
+          <div class="col-lg-6 col-md-12 mx-auto">
+            <div class="d-grid gap-3">
+              <% for(let i=0; i<categories.length; i++) { %>
+                    <button type="button" class="btn btn-warning btn-category"><%= categories[i] %></button>
+                    <div class="container opciones-<%= categories[i] %> hidden">
+                      <div class="row py-lg-2">
+                        <div class="col-lg-6 col-md-12 mx-auto">
+                          <div class="d-grid gap-3">
+                          <a href="<%= categories[i] %>/Vocabulario" class="btn btn-outline-warning btn-options" role="button">Vocabulario</a>
+                          <a href="<%= categories[i] %>/Repaso" class="btn btn-outline-warning btn-options" role="button">Repaso</a>
+                          <a href="<%= categories[i] %>/Quiz" class="btn btn-outline-warning btn-options" role="button">Quiz</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+              <% } %>
+            </div>
           </div>
-        </a>
-      </div>
+        </div>
     </div>
 
-    <section class="py-5 text-center container">
-      <div class="row py-lg-2">
-        <div class="col-lg-6 col-md-8 mx-auto">
-          <h1 class="fw-light">Holandés</h1>
-        </div>
-      </div>
-    </section>
-
     <div class="container text-center">
-      <% for(let i=0; i<categories.length; i++) { %>
-      <a href="/<%= categories[i] %>"><h3><%= categories[i] %></h3>      </a>
-      <% } %>
+
     </div>
 
     <div class="footer">
@@ -48,5 +52,9 @@
 
     <!-- FontAwesome.com -->
     <script src="https://kit.fontawesome.com/e7194b218c.js" crossorigin="anonymous"></script>
+
+    <!-- Scripts -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript" src= "../scripts/index.js"></script>
   </body>
 </html>

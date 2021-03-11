@@ -1,5 +1,245 @@
 [
   {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "groot",
+    "spanish": "grande"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "klein",
+    "spanish": "pequeño"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "mooi",
+    "spanish": "bonito"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "lelijk",
+    "spanish": "feo"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "licht",
+    "spanish": "ligero"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "zwaar",
+    "spanish": "pesado"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "snel",
+    "spanish": "rápido"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "lekker",
+    "spanish": "delicioso"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "duur",
+    "spanish": "caro"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "goedkoop",
+    "spanish": "barato"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "fris",
+    "spanish": "fresco"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "slecht",
+    "spanish": "malo"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "goed",
+    "spanish": "bueno"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "nieuw",
+    "spanish": "nuevo"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "oud",
+    "spanish": "viejo"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "vrij",
+    "spanish": "libre"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "vies",
+    "spanish": "sucio"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "schoon",
+    "spanish": "limpio"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "langzaam",
+    "spanish": "lento"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 1,
+    "dutch": "saai",
+    "spanish": "aburrido"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "arm",
+    "spanish": "pobre"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "rijk",
+    "spanish": "rico"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "donker",
+    "spanish": "oscuro"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "zacht",
+    "spanish": "suave"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "stout",
+    "spanish": "travieso"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "koud",
+    "spanish": "frío"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "warm",
+    "spanish": "cálido"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "hoog",
+    "spanish": "alto"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "laag",
+    "spanish": "largo"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "smal",
+    "spanish": "estrecho"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "dik",
+    "spanish": "gordo"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "dun",
+    "spanish": "delgado"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "moeilijk",
+    "spanish": "difícil"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "gemakkelijk",
+    "spanish": "fácil"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "leeg",
+    "spanish": "vacío"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "rustig",
+    "spanish": "tranquilo"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "nat",
+    "spanish": "húmedo"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "belangrijk",
+    "spanish": "importante"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "mogelijk",
+    "spanish": "posible"
+  },
+  {
+    "category": "Adjectieven",
+    "level": 2,
+    "dutch": "verkeerd",
+    "spanish": "equivocado"
+  },
+  {
     "category": "Dieren",
     "level": 1,
     "dutch": "beer",
